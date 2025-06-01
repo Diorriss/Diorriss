@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Diorriss, I study programming on the side while working a full time job hoping to do a career transition
-- 🌱 I’m currently learning python
 - 💞️ I work on random projects that I feel like will improve my programming skills
 
 <!---
